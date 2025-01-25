@@ -62,6 +62,11 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.custom-margin {
+    margin-right: 5px; /* Adds space between columns */
+}
+
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
